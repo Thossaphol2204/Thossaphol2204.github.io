@@ -1,5 +1,5 @@
 # **Welcome to My GitHub Page!**  
-📂 **6530250077 Thossaphol Makpeam** 
+📂 **6530250077 Thossaphol Makpeam sec 870** 
 
 🌐 **GitHub Page URL:** [Visit My Page](https://github.com/Thossaphol2204) 
 
@@ -8,7 +8,7 @@
 ## **About Me**  
 ![Profile Picture](profile2.png)  
 
-### **Who Am I?**  
+### **Introduce Myself**  
 - 💻 **Name:** Thossaphol Makpeam  
 - 🎓 **Education:** Computer Science Siracha,Kasetsart University   
 - ☎️ **contact:** 080-657-0875  
