@@ -1,5 +1,5 @@
 Resources
-CISSP
+# CISSP
 -> CISSP 
 
   - (Assets of an organization that can be used effectively.)
@@ -13,7 +13,7 @@ CISSP
    
 -> อ้างอิง :https://www.isc2.org/certifications/cissp/cissp-student-glossary#r
 
- 2nd Source(NIST)
+ # 2nd Source(NIST)
  
 -> NIST 
   - (Passive system-related entity, including devices, files, records, tables, processes, programs, and domains that contain or receive information. Access to an object (by a subject) implies access to the information it contains.)
@@ -26,15 +26,13 @@ CISSP
     
 -> อ้างอิง :https://csrc.nist.gov/glossary/term/resource
  
- -> Myself
+ # Myself
   - (resource คือทรัพยากรหรือทรัพสินย์ที่สามารถหาได้โดยมีทั้งใช้แล้วหมดไปหรือสามารถมีสิ่งทดแทนได้แต่ในทางคอมพิวเตอร์มีความหมายว่าทรัพยากรต่างๆเช่นทรัพยากรซอฟแวร์,ฮาร์ดแวร์ หรืออื่นๆ)
 
- Sample in Daily life
+ # Sample in Daily life
   - (resource สามารถพบได้มากมายในชีวิตประจำวัยเช่นทรัพยากรธรรมชาติ เช่น น้ำ อากาศ ,ทรัพยากรการเงิน,หรือทรัพยากรมนุษย์ และอื่นๆอีกมากมาย)
 
     
 6530250077 Thossaphol Makpeam
     
-6530250433 Ponykorn Srinuchart
-
-https://ponyakorn.github.io/resources
+6530250433 Ponykorn Srinuchart : [alt text](https://ponyakorn.github.io/resources)
