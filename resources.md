@@ -42,7 +42,7 @@
 
 ---
 
-## **Contributors**  
+## **Member**  
 - **6530250077 Thossaphol Makpeam**  
 - **6530250433 Ponykorn Srinuchart**  
   > GitHub Profile: [ponyakorn.github.io/resources](https://ponyakorn.github.io/resources)
