@@ -1,5 +1,6 @@
 -----------------------------------------------------------------------------
-# ** Keyword = Resources**
+#  Resources
+#  Keyword = Resources
 
 ## **CISSP**  
 - **CISSP**  
