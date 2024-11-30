@@ -1,36 +1,27 @@
 # **Welcome to My GitHub Page!**  
-📂 **6530250077 Thossaphol Makpeam 
-🌐 **GitHub Page URL:** [Visit My Page]([https://yourgithubusername.github.io](https://github.com/Thossaphol2204))  
+📂 **6530250077 Thossaphol Makpeam** 
+
+🌐 **GitHub Page URL:** [Visit My Page](https://github.com/Thossaphol2204) 
 
 ---
 
 ## **About Me**  
-![Profile Picture](profile1.jpg)  
+![Profile Picture](profile2.png)  
 
 ### **Who Am I?**  
-- 🌟 **Name:** [Your Name]  
-- 🎓 **Education:** [Your Degree, Your University]  
-- 💻 **Profession:** [Your Job Title/Field]  
-- 🌱 **Currently Learning:** [What you're learning]  
+- 💻 **Name:** Thossaphol Makpeam  
+- 🎓 **Education:** Computer Science Siracha,Kasetsart University   
+- ☎️ **contact:** 080-657-0875  
 - 🏆 **Hobbies:**  
   - 🎮 Gaming  
-  - 📚 Reading  
-  - 🌍 Exploring new places  
-
----
-
-## **Theme**
-> **"This page is styled with simplicity in mind!"**  
-> 🎨 **Preferred Colors:** Minimalist, Black & White, or Light Theme.  
-> **Purpose:** To showcase my projects and share my learning journey.  
+  - 📚 listen to music  
+  - 🌍 travel  
 
 ---
 
 ## **Find Me Online**  
-- 🌐 **[GitHub](https://github.com/yourusername)**  
-- 🔗 **[LinkedIn](https://linkedin.com/in/yourusername)**  
-- ✉️ **[Email Me](mailto:yourname@example.com)**  
+- 🌐 **[GitHub](https://github.com/Thossaphol2204)**  
+- 🔗 **[LinkedIn]()**  
+- ✉️ **[Email Me](https://mail.google.com/mail/u/2/#inbox)**  
 
 ---
-
-> *Feel free to explore and connect with me. Let's build something amazing together!*  
