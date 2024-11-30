@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page!
 
-<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
+<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <h2>About Me</h2>
   <p>
     Hi! My name is <strong>Your Name</strong>. I am a passionate developer who loves learning new technologies.
@@ -11,9 +11,6 @@
     <li>🎨 Hobbies: Painting, Music, Traveling</li>
   </ul>
 </div>
-
-<div style="background-color: #f9f9f9; padding: 30px; border: 2px solid #ccc; border-radius: 15px;">
-
 
 🌐 **GitHub Page URL:** [Visit My Page](https://yourgithubusername.github.io)  
 
@@ -31,7 +28,6 @@
   - 🎮 Gaming  
   - 📚 Reading  
   - 🌍 Exploring new places  
-
 
 ---
 
