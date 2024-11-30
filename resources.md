@@ -13,7 +13,7 @@
 - **Gemini**  
   - *(ทรัพย์สินขององค์กรที่สามารถนำมาใช้ได้อย่างมีประสิทธิภาพ)*  
 
-> **Reference:** [ISC2 Glossary - CISSP](https://www.isc2.org/certifications/cissp/cissp-student-glossary#r)
+> **🔗Reference:** [ISC2 Glossary - CISSP](https://www.isc2.org/certifications/cissp/cissp-student-glossary#r)
 
 ---
 
@@ -28,7 +28,7 @@
 - **Gemini**  
   - *(องค์ประกอบที่เกี่ยวข้องกับระบบแบบพาสซีฟ ซึ่งรวมถึง อุปกรณ์ ไฟล์ บันทึก รายการ ขั้นตอน โปรแกรม และโดเมน ที่มีหรือรับข้อมูล การเข้าถึงวัตถุ (โดยผู้ใช้) หมายถึง การเข้าถึงข้อมูลที่บรรจุอยู่ภายใน)*  
 
-> **Reference:** [NIST Glossary - Resource](https://csrc.nist.gov/glossary/term/resource)
+> **🔗Reference:** [NIST Glossary - Resource](https://csrc.nist.gov/glossary/term/resource)
 
 ---
 
@@ -45,4 +45,4 @@
 ## **✨Member**  
 - **6530250077 Thossaphol Makpeam**  
 - **6530250433 Ponykorn Srinuchart**  
-  > GitHub Profile: [ponyakorn.github.io/resources](https://ponyakorn.github.io/resources)
+  > GitHub Profile:🔗 [ponyakorn.github.io/resources](https://ponyakorn.github.io/resources)
