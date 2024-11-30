@@ -1,5 +1,6 @@
 # Resources
- # CISSP
+
+ #CISSP
 -> CISSP 
 
   - (Assets of an organization that can be used effectively.)
