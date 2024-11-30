@@ -1,16 +1,4 @@
-# Welcome to My GitHub Page!
-
-<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h2>About Me</h2>
-  <p>
-    Hi! My name is <strong>Your Name</strong>. I am a passionate developer who loves learning new technologies.
-  </p>
-  <ul>
-    <li>🌱 Currently learning: Python, AI</li>
-    <li>💻 Profession: Software Developer</li>
-    <li>🎨 Hobbies: Painting, Music, Traveling</li>
-  </ul>
-</div>
+# **Welcome to My GitHub Page!**  
 
 🌐 **GitHub Page URL:** [Visit My Page](https://yourgithubusername.github.io)  
 
@@ -28,6 +16,13 @@
   - 🎮 Gaming  
   - 📚 Reading  
   - 🌍 Exploring new places  
+
+---
+
+## **Theme**
+> **"This page is styled with simplicity in mind!"**  
+> 🎨 **Preferred Colors:** Minimalist, Black & White, or Light Theme.  
+> **Purpose:** To showcase my projects and share my learning journey.  
 
 ---
 
