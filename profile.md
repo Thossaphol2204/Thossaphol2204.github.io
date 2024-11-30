@@ -5,7 +5,7 @@
 ---
 
 ## **About Me**  
-![Profile Picture](https://via.placeholder.com/200)  
+![Profile Picture](profile1.jpg)  
 
 ### **Who Am I?**  
 - 🌟 **Name:** [Your Name]  
