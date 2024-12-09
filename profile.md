@@ -6,7 +6,7 @@
 ---
 
 ## **✨About Me**  
-![Profile Picture](profile2.png)  
+![Profile Picture](pic/profile2.png)  
 
 ### **✨Introduce Myself**  
 - 💻 **Name:** Thossaphol Makpeam  
