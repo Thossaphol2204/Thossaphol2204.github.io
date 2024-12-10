@@ -6,7 +6,8 @@
 ---
 
 ## **✨About Me**  
-![Profile Picture](pic/profile2.png)  
+![Profile Picture](pic/profile2.png
+)  
 
 ### **✨Introduce Myself**  
 - 💻 **Name:** Thossaphol Makpeam  
@@ -22,6 +23,6 @@
 ## **✨Find Me Online**  
 - 🌐 **[GitHub](https://github.com/Thossaphol2204)**  
 - 🔗 **[LinkedIn]()**  
-- ✉️ **[Email Me](https://mail.google.com/mail/u/2/#inbox)**  
+- ✉️ **[Email Me]** : thossapholmp@gmail.com
 
 ---
