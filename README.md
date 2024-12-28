@@ -1,13 +1,12 @@
 # **✨Welcome to My GitHub Page!**  
 📂 **6530250077 Thossaphol Makpeam sec 870** 
 
-🌐 **GitHub Page URL:** [Visit My Page](https://github.com/Thossaphol2204) 
+🌐 **GitHub Page URL:** [Visit My Page](https://github.com/profile2) 
 
 ---
 
 ## **✨About Me**  
-![Profile Picture](pic/profile2.png
-)  
+![Profile Picture](pic/profile2.png)  
 
 ### **✨Introduce Myself**  
 - 💻 **Name:** Thossaphol Makpeam  
