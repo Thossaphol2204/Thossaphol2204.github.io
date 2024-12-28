@@ -3,7 +3,7 @@ What is data accuracy?
 
 ## ✨Definition  
 - Data accuracy refers to the degree to which data correctly describes the real-world objects or events it is intended to represent.
- - *(ความถูกต้องของข้อมูลหมายถึง ระดับความถูกต้องที่ข้อมูลสามารถอธิบายวัตถุหรือเหตุการณ์ในโลกแห่งความเป็นจริงได้อย่างถูกต้องตามที่มันถูกสร้างและออกแบบมาให้เป็น. )* 
+ - *(ความถูกต้องของข้อมูลหมายถึง ระดับความถูกต้องที่ข้อมูลสามารถอธิบายข้อมูลของวัตถุหรือเหตุการณ์ในโลกแห่งความเป็นจริงได้อย่างถูกต้องตามที่มันถูกสร้างและออกแบบมาให้เป็น. )* 
 
 ## **✨Meaning by metaplane**  
 - **metaplane**  
