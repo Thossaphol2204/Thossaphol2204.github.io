@@ -25,7 +25,7 @@ What is data accuracy?
 
 ## **✨Synthesize by Myself**
 - **Myself**
-  -   Data Accuracy คือความถูกต้องและสะท้อนความจริงของสิ่งที่อ้างอิงของข้อมูลได้อย่างแม่นยำ 
+  - *(Data Accuracy คือความถูกต้องและสะท้อนความจริงของสิ่งที่อ้างอิงของข้อมูลได้อย่างแม่นยำ   )*  
 ---
 
 ## **✨Sample in Daily Life**  
