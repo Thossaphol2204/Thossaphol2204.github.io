@@ -1,11 +1,6 @@
 # Topic : Accuracy in DataQuality  
-What is data accuracy?
 
-## ✨Definition  
-- Data accuracy refers to the degree to which data correctly describes the real-world objects or events it is intended to represent.
- - *(ความถูกต้องของข้อมูลหมายถึง ระดับความถูกต้องที่ข้อมูลสามารถอธิบายข้อมูลของวัตถุหรือเหตุการณ์ในโลกแห่งความเป็นจริงได้อย่างถูกต้องตามที่มันถูกสร้างและออกแบบมาให้เป็น. )* 
-
-## **✨Meaning by metaplane**  
+## **✨Definition by metaplane**  
 - **metaplane**  
   - *Data accuracy is one of ten dimensions of data quality, and one of three dimensions that influence data integrity. Data is considered accurate if it describes the real world. Ask yourself: Do the entities actually exist in your data collection, do they have the attributes you describe in your data model, and do events occur at the times and with the attributes you claim? Accuracy is fractal, so it’s important to examine each level of abstraction.*  
   - *(ความถูกต้องของข้อมูลเป็นมิติหนึ่งในสิบของการทำคุณภาพข้อมูล และเป็นหนึ่งในสามมิติที่มีอิทธิพลต่อความสมบูรณ์ของข้อมูล ข้อมูลจะถือว่ามีความถูกต้องหากสามารถอธิบายโลกแห่งความเป็นจริงได้ ลองถามตัวเองว่า: เอนทิตีมีอยู่จริงในคอลเล็กชันข้อมูลของคุณหรือไม่ เอนทิตีเหล่านั้นมีคุณลักษณะตามที่คุณอธิบายไว้ในแบบจำลองข้อมูลของคุณหรือไม่ และเหตุการณ์เกิดขึ้นในเวลาและคุณลักษณะที่คุณอ้างสิทธิ์หรือไม่ ความถูกต้องเป็นเศษส่วน ดังนั้นจึงมีความสำคัญที่จะต้องตรวจสอบระดับของการแยกส่วนแต่ละระดับ)*  
@@ -26,7 +21,7 @@ What is data accuracy?
     
 ---
 
-## **✨Sample in Daily Life**
+## **✨Sample**
 - ข้อมูลจำนวนพนักงานของบริษัท
   - ข้อมูลที่ถูกต้อง: "จำนวนพนักงาน = 50 คน" (ตรงกับจำนวนจริง)  
   - ข้อมูลที่ผิดพลาด: "จำนวนพนักงาน = 45 คน" (ไม่ตรงตามความจริง)
