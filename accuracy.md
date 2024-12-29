@@ -8,12 +8,13 @@
 
 ## ✨Meaning by ChatGPT  
 - **ChatGPT**  
-  - *(Data accuracy means that the data is precise, error-free, and reflects the actual state of the real-world entity or event it represents. )*
-  - *(ความถูกต้องของข้อมูล หมายถึง ข้อมูลมีความแม่นยำ ปราศจากข้อผิดพลาด และสะท้อนถึงสถานะที่แท้จริงของหน่วยงานหรือเหตุการณ์ในโลกแห่งความเป็นจริงที่แสดง )*  
+   - *(Data accuracy is one of the key dimensions of data quality. It means that data reflects the real-world entities, attributes, and events it represents. Accurate data ensures that what is recorded corresponds truthfully to reality, at all levels of abstraction. )*
+  - *(ความถูกต้องของข้อมูลเป็นหนึ่งในมิติสำคัญของคุณภาพข้อมูล หมายถึงข้อมูลที่สะท้อนถึงเอนทิตี คุณลักษณะ และเหตุการณ์ในโลกแห่งความเป็นจริงได้อย่างถูกต้อง การที่ข้อมูลมีความถูกต้องคือการบันทึกที่สอดคล้องกับความจริงในทุกระดับของการแยกส่วน)*  
 
 ## ✨Meaning by Gemini  
-- **Gemini**  
-  - *(ข้อมูลที่มี Accuracy หมายถึงข้อมูลที่สะท้อนความจริงและไม่มีข้อผิดพลาด  )*  
+- **Gemini**
+  - *( Data with accuracy reflects the real world truthfully. It represents real-world entities, attributes, and events without any errors, ensuring alignment with reality.)*
+  - *( ข้อมูลที่มีความถูกต้องสะท้อนความจริงในโลกแห่งความเป็นจริงได้อย่างถูกต้องและครบถ้วน โดยไม่มีข้อผิดพลาด ทั้งในระดับของเอนทิตี คุณลักษณะ และเหตุการณ์ )*  
 
 ## **✨My Summary**
 - **Myself**
