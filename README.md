@@ -21,7 +21,7 @@
 
 ## **✨Find Me Online**  
 - 🌐 **[GitHub](https://github.com/Thossaphol2204)**  
-- 🔗 **[LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)**  
+- 🔗 **[LinkedIn](https://th.linkedin.com/in/%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%A5-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1-15656b341)**  
 - ✉️ **[Email Me]** : thossapholmp@gmail.com
 
 ---
