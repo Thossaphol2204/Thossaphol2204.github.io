@@ -4,6 +4,7 @@
 - Type of Security Control : Physical Control
   #
 ![Picture](pic/mosi.jpg)
+
 ## ประเภทของมาตรการควบคุมความปลอดภัย
 ### มาตรการควบคุมทางกายภาพ (Physical Controls)
 #### 1 . มาตรการป้องกัน (Preventative Controls)
