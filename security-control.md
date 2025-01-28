@@ -3,7 +3,7 @@
 - Control Function: Preventative , Detective Controls
 - Type of Security Control : Physical Control
 
-# ----------------------------------------------------------------------------
+# --------
 ![Picture](pic/mosi.jpg)
 
 ## ประเภทของมาตรการควบคุมความปลอดภัย
