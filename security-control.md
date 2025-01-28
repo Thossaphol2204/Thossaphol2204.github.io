@@ -1,7 +1,7 @@
 # Security Control
 ## ลูกบิดกุญแจมอเตอร์ไซค์ในฐานะมาตรการควบคุมความปลอดภัย
-- Control Function: Preventative , Detective Controls
-- Type of Security Control : Physical Control
+- **Control Function**: Preventative , Detective Controls
+- **Type of Security Control** : Physical Control
 
 # --------
 ![Picture](pic/mosi.jpg)
