@@ -2,7 +2,7 @@
 ## รูกุญแจมอเตอร์ไซค์ในฐานะมาตรการควบคุมความปลอดภัย
 - Control Function: Preventative , Detective Controls
 - Type of Security Control : Physical Control
-![Picture](pic/profile2.png)
+![Picture](pic/mosi.jpg)
 ## ประเภทของมาตรการควบคุมความปลอดภัย
 รูกุญแจมอเตอร์ไซค์เป็นรูปแบบของ **มาตรการควบคุมความปลอดภัยทางกายภาพ (Physical Security Control)** ซึ่งอยู่ภายใต้ **มาตรการป้องกัน (Preventative Controls)** เนื่องจากช่วยป้องกันการเข้าถึงและใช้งานยานพาหนะโดยไม่ได้รับอนุญาต
 
